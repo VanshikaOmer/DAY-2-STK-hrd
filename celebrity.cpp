@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
- // } Driver Code Ends
-//User function template for C++
-
 class Solution 
 {
     private:
@@ -72,7 +69,6 @@ class Solution
     }
 };
 
-// { Driver Code Starts.
 
 int main()
 {
@@ -95,4 +91,4 @@ int main()
 
     }
 }
-  // } Driver Code Ends
+
